@@ -1,0 +1,6 @@
+# Ignore large PDF document
+PT. ONDAR ANDIR DIRGANTARA.pdf
+
+# Ignore logs and temp files
+*.log
+.system_generated/
